@@ -1,0 +1,11 @@
+bin/
+obj/
+*.user
+*.suo
+.vs/
+logs/
+*.db
+.idea/
+.vscode/
+appsettings.Production.json
+appsettings.local.json
